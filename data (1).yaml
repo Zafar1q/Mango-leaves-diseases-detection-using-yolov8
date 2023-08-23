@@ -1,0 +1,12 @@
+train: /content/FYPmodeldata/AntroDiseasesFinal
+val: /content/FYPmodeldata/valdation
+
+nc: 5
+
+names: [
+
+    "Healthy",
+    "Die Back",
+    "Anthracnose",
+    "Procontarinia",
+    "Powdery Mildew"  ]
